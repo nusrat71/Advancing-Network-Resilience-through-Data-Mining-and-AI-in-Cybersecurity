@@ -1,4 +1,4 @@
-1. Clone the repository to your local machine using the following command:
+1. Clone the repository to your local machine.
 2. Review code and Install the required Python packages by running.
 
 Note:
